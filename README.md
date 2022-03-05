@@ -4,7 +4,7 @@ A portfolio of Victor's work!
 
 
 ## COVID Information Bot
-COVID Information Bot for Twitter (Final Year Project)
+COVID Information Bot for Twitter (Final Year Project).
 This bot is created with the intention of providing users more information on a statement,
 allowing them to make their own judgements based on information aside from the statement.
 
