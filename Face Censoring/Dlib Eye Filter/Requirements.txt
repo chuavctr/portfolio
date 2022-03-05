@@ -1,0 +1,2 @@
+Note: 
+This dlib project utilizes a shape predictor model (trained with iBUG 300-W dataset)
