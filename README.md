@@ -1,5 +1,5 @@
 # Victor's Portfolio
-A portfolio of Victor's work! 
+A portfolio of Victor's work done in UOW Malaysia KDU! 
 
 Check out my LinkedIn: https://www.linkedin.com/in/victor-chuaa/
 > (Portfolio is currently still under construction, so stay tuned!)
