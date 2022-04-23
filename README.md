@@ -5,7 +5,7 @@ Check out my LinkedIn: https://www.linkedin.com/in/victor-chuaa/
 > (Portfolio is currently still under construction, so stay tuned!)
 
 
-## COVID Information Bot
+## Twitter COVID Information Bot
 COVID Information Bot for Twitter (Final Year Project).
 
 This bot is created with the intention of providing users more information on a statement, 
@@ -17,6 +17,9 @@ The bot has the following features:
 - News Querying (PyGoogleNews)
 
 Data pre-processing and TF-IDF has also been utilized in the creation of this project.
+
+Final Year Project Video Presentation:
+https://youtu.be/mypMezKm7-c
 
 If you'd like to see demonstrations on Twitter, you can check it out here:
 https://twitter.com/xtractinfo
